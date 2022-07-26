@@ -10,6 +10,7 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^1.8.3",
     "react": "18.0.0",
     "react-native": "0.69.2"
   },
