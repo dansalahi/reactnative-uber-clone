@@ -1,0 +1,18 @@
+{
+    "workbench.colorCustomizations": {
+      "titleBar.activeForeground": "#000",
+      "titleBar.inactiveForeground": "#000000CC",
+      "titleBar.activeBackground": "#FFC600",
+      "titleBar.inactiveBackground": "#FFC600CC"
+    },
+    "editor.formatOnSave": true,
+      "eslint.format.enable": true,
+      "eslint.lintTask.enable": true,
+      "editor.defaultFormatter": "dbaeumer.vscode-eslint",  
+      "typescript.updateImportsOnFileMove.enabled": "always",
+      "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+      }
+      
+  }
+
