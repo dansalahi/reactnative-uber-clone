@@ -4,8 +4,9 @@ import {StatusBar, useColorScheme} from 'react-native';
 import {Provider} from 'react-redux';
 import {store} from './Src/Store/Store';
 import HideKeyboard from './Src/Utils/HideKeyboard';
-import HomeScreen from './Src/Screens/HomeScreen';
 import tw from 'twrnc';
+import {RootNavigation} from './Src/Navigation/Root';
+import 'react-native-gesture-handler';
 
 const App = () => {
   const isDarkMode = useColorScheme() === 'dark';
@@ -15,7 +16,7 @@ const App = () => {
       <SafeAreaProvider style={tw`bg-white h-full`}>
         <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
         <HideKeyboard>
-          <HomeScreen />
+          <RootNavigation />
         </HideKeyboard>
       </SafeAreaProvider>
     </Provider>
