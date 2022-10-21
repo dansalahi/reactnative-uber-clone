@@ -12,9 +12,9 @@
        <br />
        <br />
     ·
-    <a href="https://github.com/dansalahi/automated-goodreads-book-finder/issues">Report Bug</a>
+    <a href="https://github.com/dansalahi/reactnative-uber-clone/issues">Report Bug</a>
     ·
-    <a href="https://github.com/dansalahi/automated-goodreads-book-finder/issues">Request Feature</a>
+    <a href="https://github.com/dansalahi/reactnative-uber-clone/issues">Request Feature</a>
   </p>
 </div>
 
