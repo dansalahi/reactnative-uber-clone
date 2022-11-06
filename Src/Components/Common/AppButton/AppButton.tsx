@@ -16,7 +16,7 @@ export type AppButtonProps = {
   children: React.ReactElement | string;
   extendClass?: string;
   isLoading?: boolean;
-  onPress?: (event: React.MouseEvent<HTMLButtonElement, MouseEvent>) => void;
+  onPress?: () => void;
 } & React.ComponentProps<typeof Button>;
 
 const AppButton: React.FC<AppButtonProps> = ({
