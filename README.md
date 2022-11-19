@@ -4,10 +4,10 @@
 <br />
 <div align="center">
    
-  <h3 align="center">.: Creative Uber App  :.</h3>
+  <h3 align="center">.: Creative Uber Clone  :.</h3>
 
   <p align="center">
-    I made this mobile application with React Native by Typescript for experimental purposes.
+    I made this mobile application with React Native with Typescript for experimental purposes.
      <br />
        <br />
        <br />
@@ -23,7 +23,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-This project will consist of a few libraries, such as Google maps, food services, and delivery.
+This project will consist of a few google services such as google map, google direction, google distance and google places.
 
 
 ### Built With
@@ -43,20 +43,15 @@ In the project directory, you can run:
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-#### `yarn test`
+#### `yarn ios`
 
 Regarding the testing use this command.
 
-
-#### `yarn test-report`
-
-execute the test and show the report
 
 <!-- ROADMAP -->
 ## Roadmap
 
 -  Base structure for the application with Typescript
--  
 
 <!-- CONTRIBUTING -->
 ## Contributing
